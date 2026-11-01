@@ -1,0 +1,105 @@
+{
+  "source_page": "https://www.anduril.com/eagleeye",
+  "scene_config": "https://www.anduril.com/assets/data/uil.xxmlNZeBvB.json",
+  "captured_utc": "2026-11-01T01:01:38.929561+00:00",
+  "note": "Hashes identify captured source bytes; they do not establish reuse rights or physical fidelity.",
+  "geometry": [
+    {
+      "url": "https://www.anduril.com/assets/geometry/eagleeye/frames.xx8A6R7LQJ.bin",
+      "sha256": "a377ff331c2ab307647f8fdb753f86f30b4ad7353b49874553d09d2b84d45cc5",
+      "bytes": 63334
+    },
+    {
+      "url": "https://www.anduril.com/assets/geometry/eagleeye/front.xxnCpKuTV0.bin",
+      "sha256": "c69106122ce33bafb32bcd15d9b028abb5202d5796128ed20e8446b79da4adf3",
+      "bytes": 27881
+    },
+    {
+      "url": "https://www.anduril.com/assets/geometry/eagleeye/glass_camera.xxsFfRpdE5.bin",
+      "sha256": "a31d6eee3e3e83f226fc298493caae2597fe25592433e72b746a92572297b836",
+      "bytes": 1329
+    },
+    {
+      "url": "https://www.anduril.com/assets/geometry/eagleeye/glass_decals.xxyNZTETlg.bin",
+      "sha256": "d1222447ffd70d035943abbde4c72ce726ee4de3ab165676715deb7f46b10434",
+      "bytes": 1740
+    },
+    {
+      "url": "https://www.anduril.com/assets/geometry/eagleeye/glass_lens.xxD5rjsV2v.bin",
+      "sha256": "a83feb8d692e421fc705ff38a38b24ac750ee05a4523879332b2ee6337ef06cf",
+      "bytes": 23399
+    },
+    {
+      "url": "https://www.anduril.com/assets/geometry/eagleeye/glass_side.xxh6E9zwli.bin",
+      "sha256": "4f0a836cfdd224655bec518cf0f21be35266478dead4e5e89803c335c00ab6e9",
+      "bytes": 30205
+    },
+    {
+      "url": "https://www.anduril.com/assets/geometry/eagleeye/glasses_cable.xx2SoBwdhl.bin",
+      "sha256": "b968a3991c031dd52772772a5b4f34224074e3ba7d8c837f0d709aadbb34cb9b",
+      "bytes": 5566
+    },
+    {
+      "url": "https://www.anduril.com/assets/geometry/eagleeye/set1.xxEe61RBCy.bin",
+      "sha256": "496e781fd727f65006c37471c6f80fdd6ea88e2c36553bf6aca61e126e322a59",
+      "bytes": 176351
+    },
+    {
+      "url": "https://www.anduril.com/assets/geometry/eagleeye/set2.xxKweE6GIo.bin",
+      "sha256": "c783c886e77843368085cb068fff1e78ffcd8ebf811ba80b281d52fd54a1bf72",
+      "bytes": 70021
+    }
+  ],
+  "material_evidence": [
+    {
+      "url": "https://www.anduril.com/assets/images/products/eagleeye/camo.xxtOAA7Dk5.ktx2",
+      "sha256": "8d3bce852df323ced83170af0c6c628bca4f86e22cc8c9eabb42bffbd35f4916",
+      "bytes": 312242
+    },
+    {
+      "url": "https://www.anduril.com/assets/shaders/compiled.xxi1kjjiXN.vs",
+      "sha256": "0c0c20aca770c0fb3d91d721ca71903793165d89d5592b0ad7c708040936d22f",
+      "bytes": 88196
+    },
+    {
+      "url": "https://www.anduril.com/assets/images/products/eagleeye/eagleeye_set1_albedo.xxCOlPfpXa.ktx2",
+      "sha256": "9df865593f64ba6ebfd635954122b0be4def00314047865b5917e0ee38998b74",
+      "bytes": 76897
+    },
+    {
+      "url": "https://www.anduril.com/assets/images/products/eagleeye/eagleeye_set1_ao.xxfc1BkasO.ktx2",
+      "sha256": "472effc107141d3d51c9a9393520519633cd62b684de1792231b419aec71b40a",
+      "bytes": 574334
+    },
+    {
+      "url": "https://www.anduril.com/assets/images/products/eagleeye/eagleeye_set1_triplanarmask.xxgK6Vzd9C.ktx2",
+      "sha256": "520c866caf78fb03b8858262b73e163f83e3412eaadade160bef8a0682893455",
+      "bytes": 33685
+    },
+    {
+      "url": "https://www.anduril.com/assets/images/products/eagleeye/eagleeye_set2_albedo.xxaRaiRQxf.ktx2",
+      "sha256": "7990835318e8ba3aeff7d7022002ecbd14d014e7841bdc3665cdcd73063a5f1c",
+      "bytes": 17193
+    },
+    {
+      "url": "https://www.anduril.com/assets/images/products/eagleeye/eagleeye_set2_ao.xxgko_p-iP.ktx2",
+      "sha256": "c37a5bead6480730228e742a6f9fb512bff3bdc5fa97981ed38fe0059518429f",
+      "bytes": 178682
+    },
+    {
+      "url": "https://www.anduril.com/assets/images/products/eagleeye/glasses_albedo.xxINs9ZvAe.ktx2",
+      "sha256": "ccd8fcd136a32c7ed1e14f50bfb8a63ba5112c0a3a4a912b3517c4be9f42e78e",
+      "bytes": 24060
+    },
+    {
+      "url": "https://www.anduril.com/assets/images/products/eagleeye/glasses_ao.xxwVUgU8O-.ktx2",
+      "sha256": "6ee9b2b1983b54685f84b34f94102b6e36a27071ebfea20253bc3a9c1cd2a524",
+      "bytes": 178077
+    },
+    {
+      "url": "https://www.anduril.com/assets/images/products/eagleeye/glasses_decal.xxEF3WBl20.avif",
+      "sha256": "10940b23e276ec92fe4f2ab3b7c69de1223dd718fd6d2ad7e01928333e7ddf8d",
+      "bytes": 3101
+    }
+  ]
+}

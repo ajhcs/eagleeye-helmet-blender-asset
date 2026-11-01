@@ -1,0 +1,20 @@
+{
+  "blender_version": "5.2.2 LTS",
+  "asset": "assets/eagleeye-helmet.blend",
+  "asset_sha256": "bb50385a81c45907076895968eca4d88e6940a156956d5ba434a83febcf3e30b",
+  "helmet_mesh_objects": 9,
+  "packed_image_count": 12,
+  "asset_browser_custom_preview": true,
+  "geometry_indices_uv_and_original_normals_match_source": true,
+  "reopened": true,
+  "appended_in_fresh_scene": true,
+  "rendered_with_external_texture_paths_unavailable": true,
+  "gif": {
+    "path": "media/eagleeye-helmet-360-turntable.gif",
+    "frames": 72,
+    "duration_ms": 6000,
+    "loop": 0,
+    "browser_frame_advanced": true
+  },
+  "scope": "Visual website reference; shader equivalence, physical scale and reuse rights not established."
+}
